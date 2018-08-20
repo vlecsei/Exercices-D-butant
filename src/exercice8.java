@@ -2,7 +2,8 @@ import java.util.Scanner;
 
 public class exercice8 {
 	
-	static int notesEleves[];
+    	static boolean finish = false;
+	static int noteEleve;
 	static int moyenne;
 	static Scanner sc = new Scanner(System.in);
 	
@@ -10,12 +11,13 @@ public class exercice8 {
 
 	public static void main(String[] args) {
 		
-		
-		
+		while (finish == false) {
+		  
+		    
 		
 		
 		
 
 	}
-
+	}
 }
