@@ -5,7 +5,7 @@ public class exercice7 {
 	static Scanner sc = new Scanner(System.in);
 	static int nbre;
 	static int i;
-	static int produit;
+	static int produit = 1;
 	
 	
 	

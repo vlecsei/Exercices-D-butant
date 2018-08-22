@@ -14,10 +14,9 @@ public class exercice8 {
 		while (finish == false) {
 		  
 		    
-		
-		
-		
+		    
+		    
 
-	}
+		}System.out.println("Merci d'avoir utilisé ce programme.");
 	}
 }
