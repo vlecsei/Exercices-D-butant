@@ -4,16 +4,17 @@ public class exercice7 {
 	
 	static Scanner sc = new Scanner(System.in);
 	static int nbre;
-	static int produit = 1;
+	static int i;
+	static double produit = 1;
 	
 	
 	
 	public static void main(String[] args) {
 		
-		System.out.println("Entrez un nombre :");
+		System.out.println("Entrez un nombre :\n");
 		nbre = sc.nextInt();
 		
-		for(int i = 1; i <= nbre; i++) {
+		for(i = 1; i <= nbre; i++) {
 			produit = produit * i;
 		}
 		
